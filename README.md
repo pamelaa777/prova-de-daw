@@ -1,4 +1,8 @@
 # curr-culo-DAW
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0422bcdd43ddcd99f1224824162b17e7a58d9d2
 Estágio Presencial / Híbrido / Remoto
 📝 Trabalho Final: Curriculum Vitae
 📂 (Desenvolve) Programação Básica Para Web
